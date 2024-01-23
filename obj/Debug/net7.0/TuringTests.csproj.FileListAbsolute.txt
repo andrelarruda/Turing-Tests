@@ -1,0 +1,15 @@
+D:\Code\.NET\TuringTests\bin\Debug\net7.0\TuringTests.exe
+D:\Code\.NET\TuringTests\bin\Debug\net7.0\TuringTests.deps.json
+D:\Code\.NET\TuringTests\bin\Debug\net7.0\TuringTests.runtimeconfig.json
+D:\Code\.NET\TuringTests\bin\Debug\net7.0\TuringTests.dll
+D:\Code\.NET\TuringTests\bin\Debug\net7.0\TuringTests.pdb
+D:\Code\.NET\TuringTests\obj\Debug\net7.0\TuringTests.csproj.AssemblyReference.cache
+D:\Code\.NET\TuringTests\obj\Debug\net7.0\TuringTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\.NET\TuringTests\obj\Debug\net7.0\TuringTests.AssemblyInfoInputs.cache
+D:\Code\.NET\TuringTests\obj\Debug\net7.0\TuringTests.AssemblyInfo.cs
+D:\Code\.NET\TuringTests\obj\Debug\net7.0\TuringTests.csproj.CoreCompileInputs.cache
+D:\Code\.NET\TuringTests\obj\Debug\net7.0\TuringTests.dll
+D:\Code\.NET\TuringTests\obj\Debug\net7.0\refint\TuringTests.dll
+D:\Code\.NET\TuringTests\obj\Debug\net7.0\TuringTests.pdb
+D:\Code\.NET\TuringTests\obj\Debug\net7.0\TuringTests.genruntimeconfig.cache
+D:\Code\.NET\TuringTests\obj\Debug\net7.0\ref\TuringTests.dll
